@@ -1,14 +1,13 @@
 {
-  "main.css": "/cocorahs/static/css/main.ba6b8112.chunk.css",
-  "main.js": "/cocorahs/static/js/main.44bd1040.chunk.js",
-  "main.js.map": "/cocorahs/static/js/main.44bd1040.chunk.js.map",
-  "static/js/1.1a2fe23b.chunk.js": "/cocorahs/static/js/1.1a2fe23b.chunk.js",
-  "static/js/1.1a2fe23b.chunk.js.map": "/cocorahs/static/js/1.1a2fe23b.chunk.js.map",
+  "main.css": "/cocorahs/static/css/main.37973992.chunk.css",
+  "main.js": "/cocorahs/static/js/main.68f11697.chunk.js",
+  "main.js.map": "/cocorahs/static/js/main.68f11697.chunk.js.map",
+  "static/js/1.8b392fd8.chunk.js": "/cocorahs/static/js/1.8b392fd8.chunk.js",
+  "static/js/1.8b392fd8.chunk.js.map": "/cocorahs/static/js/1.8b392fd8.chunk.js.map",
   "runtime~main.js": "/cocorahs/static/js/runtime~main.74bc70fe.js",
   "runtime~main.js.map": "/cocorahs/static/js/runtime~main.74bc70fe.js.map",
-  "static/media/logo.svg": "/cocorahs/static/media/logo.5d5d9eef.svg",
-  "static/css/main.ba6b8112.chunk.css.map": "/cocorahs/static/css/main.ba6b8112.chunk.css.map",
+  "static/css/main.37973992.chunk.css.map": "/cocorahs/static/css/main.37973992.chunk.css.map",
   "index.html": "/cocorahs/index.html",
-  "precache-manifest.224eede86d37a65224477112ee045cbb.js": "/cocorahs/precache-manifest.224eede86d37a65224477112ee045cbb.js",
+  "precache-manifest.4342b5c420bcfd526fb37820c75615c6.js": "/cocorahs/precache-manifest.4342b5c420bcfd526fb37820c75615c6.js",
   "service-worker.js": "/cocorahs/service-worker.js"
 }
